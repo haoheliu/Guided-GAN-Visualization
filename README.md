@@ -1,5 +1,5 @@
 # Visulization of GAN on mnist dataset
-[![AD1gYT.md.png](https://s2.ax1x.com/2019/03/30/AD1gYT.md.png)](https://imgchr.com/i/AD1gYT)
+![AD3p7t.png](https://s2.ax1x.com/2019/03/30/AD3p7t.png)
 
 # Our model
 [![AD1o01.md.png](https://s2.ax1x.com/2019/03/30/AD1o01.md.png)](https://imgchr.com/i/AD1o01)
