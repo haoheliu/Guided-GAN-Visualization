@@ -29,4 +29,4 @@ Gif picture2:
 
 This may not a well-trained GAN, but it do visualize the training process
 
-![AWDDKO.gif](https://s2.ax1x.com/2019/04/06/AWDDKO.gif)
+[![AWDDKO.gif](https://s2.ax1x.com/2019/04/06/AWDDKO.gif)](https://imgchr.com/i/AWDDKO)
