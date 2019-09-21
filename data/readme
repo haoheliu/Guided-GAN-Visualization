@@ -1,0 +1,3 @@
+pretrained_classifier: a .pth file which is a pretrained CNN classifier (on mnist)
+pretrained_generator: a .pth file which is a pretrained Generator (on mnist)
+standerd_pic: the standerd picture (mean value)
