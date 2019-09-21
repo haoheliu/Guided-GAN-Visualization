@@ -13,7 +13,7 @@ This example only have one pre-trained generator. If you need more pre-trained g
 # Our model
 [![AD1o01.md.png](https://s2.ax1x.com/2019/03/30/AD1o01.md.png)](https://imgchr.com/i/AD1o01)
 
-# Guided GAN
+# Guided GAN visualization
 Generate picture exactly you want
 [![AD1TTx.md.png](https://s2.ax1x.com/2019/03/30/AD1TTx.md.png)](https://imgchr.com/i/AD1TTx)
 

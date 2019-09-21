@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.image as mi
 from PIL import Image
+import pytorch
 
 def corelation(img1,img2):
     img1 = img1.reshape(-1)

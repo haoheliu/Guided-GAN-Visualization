@@ -26,6 +26,7 @@ import matplotlib.pyplot as plt
 
 from corelation import corelation
 
+
 device = 'cuda:0'
 #Total number of iter we want to generate fake picture we want, the more iter, more chance to generate more fake images
 max_iter = 6000
@@ -179,9 +180,9 @@ def generator_visulization( resume = './data/pretrained_generator/netG_epoch_58_
                 try:
                     coor_dict[each].append(score_dict[each][order[-i-1]])
                 except:
-                    print('Not enough :'+str(each))
-                    print('You need '+str(num_generate)+" pictures of :"+str(each))
-                    print('But we only have:'+str(i)+' '+str(each))
+                    #print('Not enough :'+str(each))
+                    #print('You need '+str(num_generate)+" pictures of :"+str(each))
+                    #print('But we only have:'+str(i)+' '+str(each))
                     break
 
         print('Finished')
