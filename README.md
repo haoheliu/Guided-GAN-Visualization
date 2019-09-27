@@ -1,13 +1,6 @@
 This code provide a simple example for our work
 
-This example only have one pre-trained generator. If you need more pre-trained generator and pre-trained classifier,reference is listed as below:
-
-**DCGAN mnist model**
->https://github.com/Ranchofromxgd/DCGAN_mnist
-
-**CNN mnist classifier**
->https://github.com/Ranchofromxgd/classification_mnist
-
+This example only have one pre-trained generator.
 
 
 # Our model
